@@ -1,0 +1,88 @@
+
+.custom-body {
+  background-color: #84c7fc;
+}
+.custom-menu {
+  background-color: #acd7ff;
+}
+.custom-black {
+  background-color: #262626;
+}
+.custom-color {
+  color: #262626;
+}
+
+.custom-menu h1{
+  font-size: 27px;
+  color: #262626;
+  font-weight: 800;
+  text-align: center;
+}
+
+
+.signup-button {
+  background-color: #262626;
+  border: 1px solid #262626;
+  color: #fff;
+  font-size: 12px;
+  transition: 0.6s;
+}
+.signup-button:hover {
+  background-color: #fff;
+  color: #262626;
+  border: 1px solid #fff;
+}
+.my-menu ul li{
+  padding: 15px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #262626;
+  float: left;
+  transition: 0.6s;
+}
+.my-menu ul li:hover{
+  background-color: #84c7fc;
+  border-radius: 8px;
+  cursor: pointer;
+  /* border: 1px solid #84c7fc; */
+}
+
+.custom-h1 {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+
+.hero-section {
+  padding: 60px;
+  background-image: linear-gradient(#b2daff, #e4e9ff, #efedff);
+}
+
+.heading h1 {
+  font-size: 50px;
+  color: #262626;
+  font-weight: 600;
+  text-align: center;
+}
+.hero-section .description p {
+  font-size: 14px;
+  font-weight: 500;
+  color: #262626;
+}
+.clients {
+  padding: 60px;
+  background-color: #fff;
+}
+.clients .heading h1 {
+  font-size: 40px;
+  color: #262626;
+  font-weight: 600;
+  text-align: center;
+}
+
+.clients .description p {
+  font-size: 14px;
+  font-weight: 500;
+  color: #262626;
+  text-align: center;
+}
